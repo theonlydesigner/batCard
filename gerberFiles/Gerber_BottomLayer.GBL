@@ -1,0 +1,34 @@
+G04 Layer: BottomLayer*
+G04 EasyEDA v6.5.57, 2026-09-06 22:09:52*
+G04 ba928902a84c4683882b99a64c78e7aa,334c5068c9ef4285bcccc64a41db27fd,10*
+G04 Gerber Generator version 0.2*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in millimeters *
+G04 leading zeros omitted , absolute positions ,4 integer and 5 decimal *
+%FSLAX45Y45*%
+%MOMM*%
+
+%ADD10C,0.2540*%
+%ADD11C,0.8080*%
+%ADD12C,1.8000*%
+%ADD13C,0.6096*%
+%ADD14C,0.0172*%
+
+%LPD*%
+D10*
+X7200597Y4088384D02*
+G01*
+X6798795Y4088384D01*
+X6719445Y4009034D01*
+D11*
+G01*
+X7200595Y4088384D03*
+D12*
+G01*
+X5768670Y4948681D03*
+G01*
+X5768670Y2948686D03*
+D13*
+G01*
+X6719443Y4009034D03*
+M02*
