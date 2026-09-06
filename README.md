@@ -26,7 +26,7 @@ This project is a custom circuit board designed to demonstrate schematic capture
 
 | Schematic Draft | Component Footprint Layout |
 | :---: | :---: |
-| ![schematic draft](https://cdn.hackclub.com/01a077bd-a759-7f15-9d54-73a136cca92a/image.png) | ![pcb footprint layout](https://cdn.hackclub.com/01a077be-043e-73ca-9b8f-54bcab9387b2/image.png) |
+| ![schematic draft](https://cdn.hackclub.com/01a077be-043e-73ca-9b8f-54bcab9387b2/image.png) | ![pcb footprint layout](https://cdn.hackclub.com/01a077bd-a759-7f15-9d54-73a136cca92a/image.png) |
 
 | Bat-Signal Silkscreen | PCB Final Preview |
 | :---: | :---: |
