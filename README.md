@@ -22,6 +22,20 @@ This project is a custom circuit board designed to demonstrate schematic capture
 3. **Component Placement & Routing:** Imported netlists into the PCB editor and manually arranged components to minimize cross-routing and congestion.
 4. **Graphics & Aesthetics:** Added custom silkscreen text and vector artwork on the front silkscreen layer (`F.Silkscreen`).
 
+## BOM
+
+
+| Item Name | Quantity | Unit Price ($) | Total Price ($) |
+| :--- | :---: | :---: | :---: |
+| **NT3H2111W0FHKH (NFC Chip)** | 1 | 0.625 | 0.625 |
+| **PCB (Custom Manufactured Card)** | 1 | 40.000 | 40.000 |
+| **Soldering Iron (Precision Tool)** | 1 | 7.250 | 7.250 |
+| **220nF Capacitor (0603 size)** | 1 | 0.100 | 0.100 |
+| **17-21SUYC/TR8 (Orange SMD LED)** | 1 | 0.100 | 0.100 |
+| **47Ω Resistor (0603 size)** | 1 | 0.100 | 0.100 |
+| **Grand Total** | | | **$48.175** |
+
+
 ## Gallery
 
 | Schematic Draft | Component Footprint Layout |
