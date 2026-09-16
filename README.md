@@ -2,7 +2,7 @@
 
 A custom-designed PCB created in EasyEDA, built from scratch with custom footprints, clean trace routing, and a Bat-signal silkscreen graphic because empty PCB space is a wasted opportunity.
 
-![final pcb preview](https://cdn.hackclub.com/01a077be-89bc-7fcd-964a-31bdf6fcb4f8/image.png)
+![image.png](https://cdn.hackclub.com/01a0a9c5-1848-7b0b-bf6a-4a261cf95100/image.png)
 
 ## Overview
 
@@ -38,13 +38,13 @@ This project is a custom circuit board designed to demonstrate schematic capture
 
 ## Gallery
 
-| Schematic Draft | Component Footprint Layout |
+| Schematic Draft | Back Silkscreen |
 | :---: | :---: |
-| ![schematic draft](https://cdn.hackclub.com/01a077be-043e-73ca-9b8f-54bcab9387b2/image.png) | ![pcb footprint layout](https://cdn.hackclub.com/01a077bd-a759-7f15-9d54-73a136cca92a/image.png) |
+| ![schematic draft](https://cdn.hackclub.com/01a077be-043e-73ca-9b8f-54bcab9387b2/image.png) | ![image.png](https://cdn.hackclub.com/01a0a9c7-3d8d-7df4-8a86-623702c0282f/image.png) |
 
 | Bat-Signal Silkscreen | PCB Final Preview |
 | :---: | :---: |
-| ![batman silkscreen detail](https://cdn.hackclub.com/01a077be-2ad8-70bb-a5dc-cddcbaac30a2/image.png) | ![final pcb preview](https://cdn.hackclub.com/01a077be-89bc-7fcd-964a-31bdf6fcb4f8/image.png) |
+| ![batman silkscreen detail](https://cdn.hackclub.com/01a077be-2ad8-70bb-a5dc-cddcbaac30a2/image.png) | ![image.png](https://cdn.hackclub.com/01a0a9c5-1848-7b0b-bf6a-4a261cf95100/image.png) |
 
 ## How to Assemble
 
