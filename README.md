@@ -53,12 +53,8 @@ This project is a custom circuit board designed to demonstrate schematic capture
 3. **Source Parts:** Order the required components based on the schematic footprints.
 4. **Solder Components:** Solder smaller passive components and ICs first, followed by larger connectors.
 
-## Known Issues
-
-* Pending PCB fabrication funding before ordering physical boards and testing hardware assembly.
-
 ## Credits
 
 * **Designer:** Pratham Rupera (`theonlydesigner`)
 * **EDA Tool:** EasyEDA
-* **Platform:** Built for Hack Club
+* **Platform:** Built for Live
