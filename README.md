@@ -31,8 +31,8 @@ This project is a custom circuit board designed to demonstrate schematic capture
 |17-21SUYC/TR8 |1       |0.1  |
 |47Ω           |1       |0.1  |
 |NT3H2111W0FHKH|1       |0.625|
-|PCB           |        |     |
-|Soldering Iron|        |     |
+|PCB           |1       |19   |
+|Soldering Iron|1       |7.2  |
 
 ## Gallery
 
