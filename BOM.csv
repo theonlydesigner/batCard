@@ -1,7 +1,7 @@
-﻿Name	Quantity	Price
-"220nF"	"1"	"0.1"
-"17-21SUYC/TR8"	"1"	"0.1"
-"47Ω"	"1"	"0.1"
-"NT3H2111W0FHKH"	"1"	"0.625"
-"PCB" "1" "19"
-"Soldering Iron" "1" "7.25"
+Name,Quantity,Price
+220nF,1,0.1
+17-21SUYC/TR8,1,0.1
+47Ω,1,0.1
+NT3H2111W0FHKH,1,0.625
+PCB,1,19
+Soldering Iron,1,7.25
